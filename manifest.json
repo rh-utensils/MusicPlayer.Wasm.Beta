@@ -1,13 +1,13 @@
 {
   "dir": "ltr",
   "lang": "English",
-  "name": "RH Music Player Nightly",
+  "name": "RH Music Player Beta",
   "scope": "/",
   "display": "standalone",
-  "start_url": "https://nightly.music.hampoelz.net/",
-  "short_name": "RH Music Nightly",
+  "start_url": "https://beta.music.hampoelz.net/",
+  "short_name": "RH Music Beta",
   "theme_color": "#0D47A1",
-  "description": "Would you like to be the first to see what's new in RH Music Player? We provide regular updates on the latest features on this nightly channel.",
+  "description": "Would you like to be the first to see what's new in RH Music Player? We provide regular updates on the latest beta features on this beta channel.",
   "orientation": "any",
   "background_color": "#FFFFFF",
   "related_applications": [],
@@ -26,7 +26,7 @@
       "purpose": "maskable any"
     }
   ],
-  "url": "https://nightly.music.hampoelz.net/",
+  "url": "https://beta.music.hampoelz.net/",
   "screenshots": [],
   "generated": "true"
 }
